@@ -117,3 +117,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+### Wally's tweaks
+
+*.csv
